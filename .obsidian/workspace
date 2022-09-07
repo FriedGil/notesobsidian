@@ -7,8 +7,12 @@
         "id": "a40794cb492ce33a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Random/Note 1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Random/Note 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Random/Note 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Random/Note 1.md"
+              }
             }
           }
         ]
@@ -122,6 +130,8 @@
   },
   "active": "a40794cb492ce33a",
   "lastOpenFiles": [
+    "Honors Precalc/Linear Algebruh.md",
+    "Random/Note 1.md",
     "Notes 2022-2023/Hello World.md"
   ]
 }
